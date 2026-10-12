@@ -1,6 +1,6 @@
 <p align="center">
   <b>AI & Data Science | Junior Developer </b><br>
-  <span>(INF.03 & INF.04) | Python & Data Science</span>
+  <span> AI i Large Language Models | Python & Data Science | Junior Software Developer </span>
 </p>
 
 ## 🌐 Socials:
